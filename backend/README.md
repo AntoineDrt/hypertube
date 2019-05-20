@@ -1,1 +1,0 @@
-mongoimport --db hyperdb --collection imdb  --type tsv --file title.basics.tsv --headerline
